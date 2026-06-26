@@ -28,9 +28,14 @@ This project focuses on classifying different varieties of rice grains using Mac
 
 ## Dataset
 
-The dataset contains measurements of rice grains and their corresponding varieties.
+This project uses the Rice Grain Classification dataset from Kaggle.
 
-Example features include:
+The dataset is not included in this repository. You can download it from Kaggle and place it in the project directory before running the notebook.
+
+Dataset Source: Kaggle – Rice Classification Dataset
+
+
+## Example features include:
 
 * Area
 * Perimeter
